@@ -1,4 +1,4 @@
 
     Interesting concept of iterating through each block and upon finding land, turning it into a 0 and searching in the 4 cardinal directions for more land.
 
-    Had some difficulty with the initial concept but after thinking about in the right way, the solution becomes strikingly clear. Good problem. 
+    Had some difficulty with the initial concept but after thinking about in the right way, the solution becomes strikingly clear. Good problem.

@@ -1,0 +1,5 @@
+    Seemingly simple problem with the caveat of understanding how to tackle it. The first hurdle was realizing that using a set was necessary for memory purposes and that iteration would not suffice.
+
+    Got to learn the following cool little snippet `int(i) ** 2 for i in str(n)`
+
+    Explored membership operators in tandem with sets. Enjoyable experience :)
